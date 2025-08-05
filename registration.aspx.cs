@@ -33,15 +33,5 @@ namespace Ngologinwebapp
 
 
         }
-
-        protected void Phonenumber_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void ddlRole_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
